@@ -18,5 +18,14 @@ nav{
 }
 
 p{
-    color: forestgreen;
+    margin-left: 10px;
+}
+
+button{
+    border: solid black 2px;
+    background-color: gray;
+    border-radius: 10%;
+    padding: 10px;
+
+
 }
