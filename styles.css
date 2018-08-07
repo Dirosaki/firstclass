@@ -11,21 +11,82 @@ h1, h2{
     font-weight: 1000;
 }
 
-nav{
-    text-align: center;
-    font-size: 15pt;
-
-}
 
 p{
     margin-left: 10px;
 }
 
+.mg1{
+    color: black;
+    font-size: 25px;
+    font-style: oblique;
+
+}
+
+.mg2{
+    background-color: white;
+    display: flex;
+    height: 55px;
+    justify-content: center;
+    align-items: center;
+    
+    
+}
+
+
 button{
     border: solid black 2px;
-    background-color: gray;
-    border-radius: 10%;
+    background-color: white;
     padding: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    font-size: 15px;
+    width: 250px;
+    border-top-left-radius: 50%;
+    border-top-right-radius: 50%;
+       
+    
+}
+
+header{
+display: flex;
+flex-direction: column;
+align-items: left;
+justify-content: center;
+height: 100px;
+background-color:white;
+
+}
+
+
+
+.mg3 img{
+    height: 100%;
+    width: 90px;
+    padding-right: 10px;
+    float: right;
+
+}
+
+#img2{
+    width: 100px;
+    height: 100%;
+   
 
 
 }
+
+
+.mg3 a{
+    font-size: 20px;
+    text-decoration: none;
+    margin-left: 20px;
+    color:#296cd8;
+       
+
+}
+
+
+
+
+    
